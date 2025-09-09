@@ -23,8 +23,8 @@ This GitHub repository contains material for an intermediate Python course held 
 <details>
   <summary>Session Exercise Solutions</summary>
 
-* [Session 0](Session%200%20-%20Git/session0_git.html#exercises)
-* [Session 1](Session%201%20-%20GitHub/session1_github.html#exercises)
+* [Session 0](Session%200%20-%20Git/session0_git.ipynb)
+* [Session 1](Session%201%20-%20GitHub/session1_github.ipynb)
 * [Session 2](Session%202%20-%20Utility%20functions/Session%202%20-%20Exercise%20solutions.ipynb)
 * [Session 3](Session%203%20-%20Advanced%20Functions/Session%203%20-%20Exercise%20solutions.ipynb)
 * [Session 4](Session%204%20-%20Object-Oriented%20Programming%20I/Session%204%20-%20Exercise%20solutions.ipynb)
@@ -34,5 +34,6 @@ This GitHub repository contains material for an intermediate Python course held 
 * Session 8
 * Session 9
 </details>
+
 
 
