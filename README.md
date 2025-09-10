@@ -5,8 +5,6 @@
 [![License](https://img.shields.io/github/license/Python-Crash-Course/Python201)](https://github.com/Python-Crash-Course/Python201/blob/master/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
-This GitHub repository contains material for an intermediate Python course held in COWI Lyngby during 2019/2020. Check out its [GitHub page](https://python-crash-course.github.io/Python201/).
-
 ## Sessions Notes and Exercises
 
 * [Session 0 - Git](Session%200%20-%20Git/session0_git.md#git)
@@ -34,6 +32,7 @@ This GitHub repository contains material for an intermediate Python course held 
 * Session 8
 * Session 9
 </details>
+
 
 
 
