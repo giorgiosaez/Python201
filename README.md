@@ -9,8 +9,8 @@ This GitHub repository contains material for an intermediate Python course held 
 
 ## Sessions Notes and Exercises
 
-* [Session 0 - Git](Session%200%20-%20Git/session0_git.html#git)
-* [Session 1 - GitHub](Session%201%20-%20GitHub/session1_github.html#git-recap)
+* [Session 0 - Git](Session%200%20-%20Git/session0_git.md#git)
+* [Session 1 - GitHub](Session%201%20-%20GitHub/session1_github.md#git-recap)
 * [Session 2 - Utility Functions and Plotting](Session%202%20-%20Utility%20functions/Session%202%20-%20Utility%20functions.ipynb)
 * [Session 3 - Advanced Functions](Session%203%20-%20Advanced%20Functions/Session%203%20-%20Advanced%20Functions.ipynb)
 * [Session 4 - Object-Oriented Programming 1/3](Session%204%20-%20Object-Oriented%20Programming%20I/Session%204%20-%20Object-Oriented%20Programming%20I.ipynb)
@@ -34,6 +34,7 @@ This GitHub repository contains material for an intermediate Python course held 
 * Session 8
 * Session 9
 </details>
+
 
 
 
